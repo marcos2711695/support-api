@@ -1,0 +1,16 @@
+com\challenge\fx\support\web\Routes.class
+com\challenge\fx\support\web\RateHandler$RateRequest.class
+com\challenge\fx\support\application\TxService.class
+com\challenge\fx\support\domain\ports\TxRepository.class
+com\challenge\fx\support\web\RateHandler.class
+com\challenge\fx\support\web\TxHandler$TxRequest.class
+com\challenge\fx\support\application\RateService.class
+com\challenge\fx\support\SupportApiApplication.class
+com\challenge\fx\support\security\SecurityConfig.class
+com\challenge\fx\support\web\TxHandler.class
+com\challenge\fx\support\infra\GlobalErrorHandler.class
+com\challenge\fx\support\domain\model\ExchangeRate.class
+com\challenge\fx\support\web\TxHandler$TxResponse.class
+com\challenge\fx\support\domain\model\ExchangeTransaction.class
+com\challenge\fx\support\domain\ports\RateRepository.class
+com\challenge\fx\support\web\RateHandler$RateResponse.class
